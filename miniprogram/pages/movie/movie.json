@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "最新电影",
+  "usingComponents": {
+    "van-button": "@vant/weapp/button"
+  }
+}
